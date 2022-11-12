@@ -23,7 +23,7 @@ Route::get('/dev', function (){
 
 Route::get('/nazraas', function () {
     return view('nazraas');
-
+});
 
 route::get('/falleryan', function () {
     return view('ryan');
