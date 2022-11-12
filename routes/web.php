@@ -21,6 +21,10 @@ Route::get('/dev', function (){
     return view('dev');
 });
 
+Route::get('/nazraas', function () {
+    return view('nazraas');
+
+
 route::get('/falleryan', function () {
     return view('ryan');
 });
