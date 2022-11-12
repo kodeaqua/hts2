@@ -17,6 +17,15 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+<<<<<<< HEAD
 Route::get('/defi', function () {
     return view('defi');
 });
+=======
+Route::get('/nazraas', function () {
+    return view('nazraas');
+
+route::get('/falleryan', function () {
+    return view('ryan');
+});
+>>>>>>> refs/remotes/origin/main
