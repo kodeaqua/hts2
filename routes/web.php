@@ -17,9 +17,13 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/raden', function () {
+    return view('raden');
+});
+
 Route::get('/nazraas', function () {
     return view('nazraas');
-
+});
 route::get('/falleryan', function () {
     return view('ryan');
 });
