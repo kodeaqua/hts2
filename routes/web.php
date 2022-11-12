@@ -24,3 +24,11 @@ Route::get('/naufal', function () {
 Route::get('/home', function () {
     return view('naufal');
 });
+
+Route::get('/nazraas', function () {
+    return view('nazraas');
+});
+
+route::get('/falleryan', function () {
+    return view('ryan');
+});
