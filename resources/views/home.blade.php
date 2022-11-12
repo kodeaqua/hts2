@@ -10,3 +10,11 @@
     <h2> Saya Ryan <h2>
 </body>
 </html>
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hi nazraas</h1>
+</body>
+</html>
+
