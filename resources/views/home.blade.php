@@ -8,6 +8,5 @@
 </head>
 <body>
     <h1>Ini dev</h1>
-</div>
 </body>
 </html>
